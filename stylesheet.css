@@ -176,7 +176,7 @@ a{
     max-width: 1540px;
     height: 520px;
     /* background-color: red; */
-    background-image: url(picture4.jpg);
+    background-image: url(image/picture4.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -574,8 +574,8 @@ p{
 .image_small_toy img {
     border-radius: 15px;
 }
-.margue_and_about{
-    /* background-color: red; */
+.margue_and_about {
+    background-color: red;
 }
 .marque_toy{
     max-width: 100%;
